@@ -16,7 +16,7 @@ This repository contains the initial stage of a student project to build a clone
 | 5. Create FileStorage class | [/models/engine/file_storage.py](./models/engine/file_storage.py) [/models/_ _init_ _.py](./models/__init__.py) [/models/base_model.py](./models/base_model.py) | Defines a class to manage persistent file storage system|
 | 6. Console 0.0.1 | [console.py](./console.py) | Add basic functionality to console program, allowing it to quit, handle empty lines and ^D |
 | 7. Console 0.1 | [console.py](./console.py) | Update the console with methods allowing the user to create, destroy, show, and update stored data |
-| 8. Create User class | [console.py](./console.py) [/models/engine/file_storage.py](./models/engine/file_storage.py) [/models/user.py](./dev/models/user.py) | Dynamically implements a user class |
+| 8. Create User class | [console.py](./console.py) [/models/engine/file_storage.py](./models/engine/file_storage.py) [/models/user.py](./models/user.py) | Dynamically implements a user class |
 | 9. More Classes | [/models/user.py](./models/user.py) [/models/place.py](./models/place.py) [/models/city.py](./models/city.py) [/models/amenity.py](./models/amenity.py) [/models/state.py](./models/state.py) [/models/review.py](./models/review.py) | Dynamically implements more classes |
 | 10. Console 1.0 | [console.py](./console.py) [/models/engine/file_storage.py](./models/engine/file_storage.py) | Update the console and file storage system to work dynamically with all  classes update file storage |
 <br>
